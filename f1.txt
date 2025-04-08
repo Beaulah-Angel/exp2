@@ -1,1 +1,2 @@
 file1 in remo_rep
+file1 in git bash
